@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="damaged-BF.png">
+<SubTexture name="damaged-BF idle0000" x="0" y="801" width="597" height="393" frameX="-40" frameY="-146" frameWidth="694" frameHeight="547" />
+<SubTexture name="damaged-BF idle0001" x="1176" y="0" width="592" height="397" frameX="-42" frameY="-142" frameWidth="694" frameHeight="547" />
+<SubTexture name="damaged-BF idle0002" x="0" y="402" width="589" height="399" frameX="-44" frameY="-139" frameWidth="694" frameHeight="547" />
+<SubTexture name="damaged-BF idle0003" x="0" y="0" width="588" height="402" frameX="-44" frameY="-136" frameWidth="694" frameHeight="547" />
+<SubTexture name="damaged-BF idle0004" x="588" y="0" width="588" height="402" frameX="-44" frameY="-136" frameWidth="694" frameHeight="547" />
+<SubTexture name="damaged-BF idle0005" x="588" y="0" width="588" height="402" frameX="-44" frameY="-136" frameWidth="694" frameHeight="547" />
+</TextureAtlas>

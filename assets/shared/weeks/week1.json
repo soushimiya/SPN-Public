@@ -1,0 +1,50 @@
+{
+	"storyName": "The First Contact",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "town",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"first-contact",
+			"soni",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"blueboy",
+			"soni",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"their-world",
+			"soni",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week1"
+}

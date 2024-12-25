@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "soni-gun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "soni-gun up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "soni-gun left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "soni-gun right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "soni-gun guard",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "soni-gun shout",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "loading",
+			"indices": [],
+			"name": "soni-gun loading"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "attack",
+			"fps": 18,
+			"name": "soni-gun attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "soni-gun down0"
+		},
+		{
+			"offsets": [
+				-253,
+				-168
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "soni-gun downmiss"
+		},
+		{
+			"offsets": [
+				-252,
+				-67
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "soni-gun upmiss"
+		},
+		{
+			"offsets": [
+				-212,
+				-125
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "soni-gun rightmiss"
+		},
+		{
+			"offsets": [
+				-165,
+				-160
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "soni-gun leftmiss"
+		}
+	],
+	"vocals_file": "soni",
+	"no_antialiasing": false,
+	"image": "characters/exe/soni-gun",
+	"position": [
+		-350,
+		170
+	],
+	"healthicon": "soni-gun",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		34,
+		255
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

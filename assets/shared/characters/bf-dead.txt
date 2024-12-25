@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF gameover gameover3"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 14,
+			"name": "BF gameover gameover1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BF gameover gameover2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/BF gameover",
+	"position": [
+		-380,
+		180
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-40,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

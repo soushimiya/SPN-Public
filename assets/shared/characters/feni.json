@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "FENI danceleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "FENI danceright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "FENI left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "FENI down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "FENI up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "FENI right",
+			"indices": []
+		}
+	],
+	"vocals_file": "feni",
+	"no_antialiasing": false,
+	"image": "characters/extra/feni/FENI",
+	"position": [
+		0,
+		410
+	],
+	"healthicon": "FENI",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "graffiti soni left"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "graffiti soni down"
+		},
+		{
+			"offsets": [
+				0,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "graffiti soni up"
+		},
+		{
+			"offsets": [
+				-320,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "graffiti soni right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-28
+			],
+			"anim": "look1",
+			"fps": 24,
+			"name": "graffiti_soni look10",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-28
+			],
+			"anim": "look2",
+			"fps": 24,
+			"name": "graffiti_soni look20",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-28
+			],
+			"anim": "look3",
+			"fps": 24,
+			"name": "graffiti_soni look30",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-28
+			],
+			"anim": "look4",
+			"fps": 24,
+			"name": "graffiti_soni look40",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-98,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "look1-e",
+			"indices": [],
+			"name": "graffiti_soni look1-e"
+		},
+		{
+			"offsets": [
+				-98,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "look2-e",
+			"indices": [],
+			"name": "graffiti_soni look2-e0"
+		},
+		{
+			"offsets": [
+				-98,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "look3-e",
+			"indices": [],
+			"name": "graffiti_soni look3-e0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 70,
+			"anim": "idle",
+			"loop": true,
+			"name": "graffiti soni idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extra/graffiti_soni",
+	"position": [
+		-40,
+		180
+	],
+	"healthicon": "gsoni",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF gameoverFENI.png">
+<SubTexture name="BF gameoverFENI gameover10000" x="2258" y="0" width="469" height="520" frameX="-335" frameY="-79" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10001" x="486" y="1319" width="464" height="531" frameX="-330" frameY="-68" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10002" x="950" y="1319" width="464" height="530" frameX="-330" frameY="-69" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10003" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10004" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10005" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10006" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10007" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10008" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10009" x="1414" y="1319" width="464" height="527" frameX="-333" frameY="-72" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10010" x="1778" y="549" width="477" height="533" frameX="-334" frameY="-65" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10011" x="1778" y="0" width="480" height="549" frameX="-355" frameY="-49" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10012" x="0" y="1319" width="486" height="545" frameX="-356" frameY="-53" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10013" x="0" y="1864" width="482" height="498" frameX="-320" frameY="-100" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10014" x="1215" y="1864" width="481" height="459" frameX="-294" frameY="-139" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10015" x="2727" y="1681" width="565" height="388" frameX="-160" frameY="-276" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10016" x="1469" y="2362" width="623" height="334" frameX="-97" frameY="-329" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10017" x="2092" y="2362" width="659" height="333" frameX="-58" frameY="-330" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10018" x="0" y="2810" width="664" height="333" frameX="-51" frameY="-330" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10019" x="664" y="2810" width="663" height="333" frameX="-51" frameY="-330" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10020" x="889" y="0" width="889" height="670" frameX="0" frameY="0" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10021" x="0" y="0" width="889" height="670" frameX="0" frameY="0" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10022" x="0" y="670" width="889" height="649" frameX="0" frameY="-21" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10023" x="889" y="670" width="889" height="627" frameX="0" frameY="-43" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10024" x="1696" y="1864" width="752" height="451" frameX="-51" frameY="-219" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10025" x="482" y="1864" width="733" height="477" frameX="-51" frameY="-193" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10026" x="0" y="2362" width="720" height="448" frameX="-51" frameY="-215" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10027" x="720" y="2362" width="749" height="424" frameX="-42" frameY="-239" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover10028" x="2727" y="0" width="669" height="450" frameX="-51" frameY="-213" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover20000" x="1696" y="1864" width="752" height="451" frameX="-51" frameY="-219" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover20001" x="482" y="1864" width="733" height="477" frameX="-51" frameY="-193" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover20002" x="0" y="2362" width="720" height="448" frameX="-51" frameY="-215" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover20003" x="720" y="2362" width="749" height="424" frameX="-42" frameY="-239" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover20004" x="2727" y="0" width="669" height="450" frameX="-51" frameY="-213" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover30000" x="2727" y="875" width="386" height="410" frameX="-268" frameY="-229" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover30001" x="2727" y="450" width="372" height="425" frameX="-275" frameY="-213" frameWidth="889" frameHeight="670" />
+<SubTexture name="BF gameoverFENI gameover30002" x="2727" y="1285" width="396" height="396" frameX="-262" frameY="-244" frameWidth="889" frameHeight="670" />
+</TextureAtlas>

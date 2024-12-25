@@ -1,0 +1,8 @@
+{
+	"name": "REALSONITHINGS",
+	"description": "REMOVE IN RELEASE BUILD PLEASE",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [0, 0, 255],
+	"iconFramerate": 10
+}

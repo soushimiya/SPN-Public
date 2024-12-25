@@ -1,0 +1,59 @@
+{
+	"storyName": "The darkness is calling you.",
+	"difficulties": "hard,crazy",
+	"hideFreeplay": false,
+	"weekBackground": "deadcity",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"invitation",
+			"soniexe",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"kill-the-kill",
+			"soniexe",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Blood-Phobia",
+			"soniexe",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"imitate",
+			"soniexe",
+			[
+				0,
+				0,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week4"
+}

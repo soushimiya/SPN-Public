@@ -1,0 +1,50 @@
+{
+	"storyName": "The... Uhhh IDK",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "forest",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"upstream",
+			"nad",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"knuckle-break",
+			"nad",
+			[
+				255,
+				0,
+				73
+			]
+		],
+		[
+			"sturdy-fist",
+			"nad",
+			[
+				255,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week3",
+	"hiddenUntilUnlocked": false
+}

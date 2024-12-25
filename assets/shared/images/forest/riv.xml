@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="riv.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="riv0000" x="2" y="2" width="1839" height="1114"/>
+	<SubTexture name="riv0001" x="1843" y="2" width="1839" height="1114"/>
+	<SubTexture name="riv0002" x="2" y="1118" width="1839" height="1114"/>
+</TextureAtlas>

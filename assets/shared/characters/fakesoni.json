@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fakesoni idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				45
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fakesoni up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fakesoni down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fakesoni left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fakesoni right0",
+			"indices": []
+		}
+	],
+	"vocals_file": "soniexe",
+	"no_antialiasing": false,
+	"image": "characters/exe/fakesoni",
+	"position": [
+		40,
+		240
+	],
+	"healthicon": "fakesoni",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		34,
+		255
+	],
+	"camera_position": [
+		40,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

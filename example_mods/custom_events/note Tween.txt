@@ -1,0 +1,7 @@
+Value1: 0 ~ 7
+Value2: 0 ~ 7
+(oponentNote: 0 ~ 3 | bfNote: 4 ~ 7)
+
+Note display or hidden - -
+
+value1: visible

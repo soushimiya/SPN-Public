@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "tel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "tel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "tel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "tel right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "tel up",
+			"indices": []
+		}
+	],
+	"vocals_file": "tel",
+	"no_antialiasing": false,
+	"image": "characters/mainweek/tel",
+	"position": [
+		80,
+		280
+	],
+	"healthicon": "tel",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		70,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

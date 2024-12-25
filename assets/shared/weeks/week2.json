@@ -1,0 +1,50 @@
+{
+	"storyName": "The Younger Brother",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "garage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nimble",
+			"tel",
+			[
+				235,
+				175,
+				0
+			]
+		],
+		[
+			"rhythm",
+			"tel",
+			[
+				235,
+				175,
+				0
+			]
+		],
+		[
+			"flanger",
+			"tel",
+			[
+				235,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2",
+	"hiddenUntilUnlocked": false
+}

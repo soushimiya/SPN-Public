@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FENI GF.png">
+<SubTexture name="FENI GF danceleft0000" x="0" y="0" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceleft0001" x="0" y="711" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceleft0002" x="1922" y="0" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceleft0003" x="1922" y="711" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceleft0004" x="0" y="1422" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceleft0005" x="1922" y="1422" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0000" x="0" y="2133" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0001" x="1922" y="2133" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0002" x="0" y="2844" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0003" x="1922" y="2844" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0004" x="3844" y="0" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+<SubTexture name="FENI GF danceright0005" x="1922" y="1422" width="1922" height="711" frameX="0" frameY="0" frameWidth="1922" frameHeight="711" />
+</TextureAtlas>
